@@ -36,10 +36,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ethanjnz&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ethanjnz&layout=compact&exclude_lang=java+r&theme=vue-dark" />
-</a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ethanjnz&theme=dark" alt="GitHub Streak" /></a>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me

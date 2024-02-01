@@ -42,7 +42,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/ethan-jones"><img src="https://img.shields.io/badge/-Ethan%20Jones-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/ethan-jones-726679290"><img src="https://img.shields.io/badge/-Ethan%20Jones-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:ethanjonesdev81@gmail.com"><img src="https://img.shields.io/badge/-ethanjonesdev81@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/ethan.jnz"><img src="https://img.shields.io/badge/-@ethan.jnz-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </p>

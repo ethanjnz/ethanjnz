@@ -39,6 +39,18 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ethanjnz&theme=dark" alt="GitHub Streak" /></a>
 </p>
 
+<h2 align="center">Recent Projects</h2>
+
+<div align="center">
+<a href="https://github.com/ethanjnz/Exercise_Finder">
+  <img width="800" src="https://github.com/ethanjnz/Exercise_Finder/blob/main/gym_exercises_photos/Exercise_Banner.png"/>
+</a>
+  <p>An app that helps find and learn about exercises</p>
+</div>
+
+***
+  
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">

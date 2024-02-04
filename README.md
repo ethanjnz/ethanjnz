@@ -51,7 +51,7 @@
 
 <div align="center">
 <a href="https://github.com/ethanjnz/sumz_summarizer">
-  <img width="800" src="https://github.com/ethanjnz/sumz_summarizer/blob/main/photos/API_Summarizer.png"/>
+  <img width="800" src="https://github.com/ethanjnz/sumz_summarizer/blob/main/photos/AI_Summarizer.png"/>
 </a>
   <p>An AI API that summarizes any article</p>
 </div>
